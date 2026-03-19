@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
  I’m currently working on building scalable backend systems using Node.js, Express, MongoDB & Redis (Freelance Marketplace platform).<br><br> I’m looking to collaborate on backend APIs, authentication systems, real-time applications & payment integrations.<br><br> I’m looking for help with advanced system design and Web3 integrations.<br><br> I’m currently learning React, Web3, and advanced backend architecture.<br><br> Ask me about Node.js, JWT authentication, Redis caching, MongoDB, Cloudinary & Socket.IO.<br><br> I enjoy turning complex backend logic into clean, scalable APIs.
 
 
